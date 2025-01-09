@@ -74,9 +74,6 @@ The H&M API provides developers with programmatic access to H&M's product catalo
 
 ## Technical Documentation
 
-# H&M API Documentation
-
-## Overview
 The H&M API provides access to product information, search functionality, and other features from the H&M retail platform. This documentation outlines the available endpoints, their parameters, and example responses.
 
 ## Base URL
